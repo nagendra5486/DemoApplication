@@ -1,0 +1,79 @@
+.container{
+    /* border:solid red 1px; */
+    width:auto;
+    height:100%;
+  
+}
+body{
+background-color: azure;}
+.login{
+
+    /* border:dotted greenyellow 3px; */
+    width:450px;
+    height:450px;
+    background-color: whitesmoke;
+    margin-top:90px;
+
+}
+
+.login_label{
+    
+    margin-top: 19px !important;
+}
+.login_label_text{
+    font-size: 38px;
+    color:rgb(128, 84, 77);
+    font-weight: bold;
+    font-style:underline;
+}
+.allForm_login{
+    margin-top: 29px;
+
+}
+
+.custom_img{
+    width:90px;
+    height:90px;
+}
+label{
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
+.input_fields{
+    width:190px;
+    border:1px solid #ccc;
+    height:35px;
+}
+
+.password_div{
+    margin-top: 19px;
+}
+
+.login_cancel_div{
+    margin-top:19px;
+}
+
+button{
+    width:150px;
+    height:50px;
+    background-color:chocolate;
+    color:white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.login_button:hover{
+    background-color: rgb(18, 52, 20);
+   
+}
+.cancel_button:hover{
+    background-color: rgb(121, 55, 55);
+}
+
+.forgot_singup{
+    /* border:solid red 1px; */
+    margin-top:10px;
+
+}
